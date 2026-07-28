@@ -97,7 +97,7 @@ I am actively undergoing rigorous postgraduate training in **Advanced Computing*
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=TheCodeSculptor-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanskar's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TheCodeSculptor-cmd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Sanskar's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ I am actively undergoing rigorous postgraduate training in **Advanced Computing*
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheCodeSculptor-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheCodeSculptor-cmd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
