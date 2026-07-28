@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**TheCodeSculptor-cmd/TheCodeSculptor-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<!-- Header Banner -->
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Sanskar%20Soni&fontSize=42&fontColor=FFFFFF&desc=Java%20%7C%20Spring%20Boot%20Developer%20%7C%20C-DAC%20PG-DAC%20Scholar&descSize=18&descAlignY=62" width="100%" />
 </p>
@@ -80,7 +72,7 @@ I am actively undergoing rigorous postgraduate training in **Advanced Computing*
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCodeSculptor-cmd&theme=tokyonight&hide_border=true" alt="Sanskar's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheCodeSculptor-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanskar's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -92,10 +84,3 @@ I am actively undergoing rigorous postgraduate training in **Advanced Computing*
 ### 🏆 Achievements
 * 🥇 **1st Prize** — College Quiz Competition (Team-based technical and general knowledge contest).
 * 📜 **Honours Graduate** — B.Tech in CSE with 76.50% First Division with Honours.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
