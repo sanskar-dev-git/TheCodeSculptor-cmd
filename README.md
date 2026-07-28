@@ -2,7 +2,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Sanskar%20Soni&fontSize=42&fontColor=FFFFFF&desc=Java%20%20%7C%20%20Spring%20Boot%20Developer%20%20%7C%20%20C-DAC%20PG-DAC%20Scholar&descSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Sanskar%20Soni&fontSize=42&fontColor=FFFFFF&desc=Java%20%7C%20Spring%20Boot%20Developer%20%7C%20C-DAC%20PG-DAC%20Scholar&descSize=18&descAlignY=68" width="100%" />
 </p>
 
 <h3 align="center">⚡ Engineering Scalable & Modular Backend Systems</h3>
