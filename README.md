@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋</h1>
 
-<!-- Header Banner -->
+<!-- Dynamic Typing Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=200&section=header&text=Sanskar%20Soni&fontSize=42&fontColor=FFFFFF&desc=Java%20%7C%20Spring%20Boot%20Developer%20%7C%20C-DAC%20PG-DAC%20Scholar&descSize=18&descAlignY=68" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=Sanskar+Soni;Java+%26+Spring+Boot+Developer;C-DAC+PG-DAC+Scholar;Engineering+Scalable+Backend+Systems" alt="Typing SVG" />
+  </a>
 </p>
-
-<h3 align="center">⚡ Engineering Scalable & Modular Backend Systems</h3>
 
 <p align="center">
   <a href="mailto:sanskarsoni136@gmail.com"><img src="https://img.shields.io/badge/Email-sanskarsoni136%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -68,7 +68,18 @@ I am actively undergoing rigorous postgraduate training in **Advanced Computing*
 | :--- | :--- | :--- | :---: |
 | 📈 **Java Backend Daily** | Active daily tracker & code repository documenting hands-on Java, DSA, OOP, and Spring Boot practice. | Java 21, DSA, OOP, Spring | [Repository](https://github.com/TheCodeSculptor-cmd/java-backend-daily) |
 | 🎓 **Student Management System API** | Layered backend application following Controller-Service-Repository architecture with CRUD operations & custom queries. | Java, Spring Boot, Spring Data JPA, MySQL, Lombok | [Repository](https://github.com/TheCodeSculptor-cmd/Student_Management_System_REST_API) |
+| 🌐 **Brown Ranches Website** | Full-stack web application developed for Brown Ranches, featuring a responsive UI and interactive design elements. | HTML, CSS, JavaScript | [Repository](https://github.com/TheCodeSculptor-cmd/Brown_Ranches_Website) |
 | 📊 **Server Performance Stats** | Utility tool designed to track and output system performance and server metric statistics. | Java, System Architecture | [Repository](https://github.com/TheCodeSculptor-cmd/Server-Performance-stats) |
+
+---
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCodeSculptor-cmd/TheCodeSculptor-cmd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCodeSculptor-cmd/TheCodeSculptor-cmd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheCodeSculptor-cmd/TheCodeSculptor-cmd/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
