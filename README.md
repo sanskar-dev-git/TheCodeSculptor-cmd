@@ -1,6 +1,8 @@
+<h1 align="center">Hey there 👋</h1>
+
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Sanskar%20Soni&fontSize=42&fontColor=FFFFFF&desc=Java%20%7C%20Spring%20Boot%20Developer%20%7C%20C-DAC%20PG-DAC%20Scholar&descSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Sanskar%20Soni&fontSize=42&fontColor=FFFFFF&desc=Java%20%20%7C%20%20Spring%20Boot%20Developer%20%20%7C%20%20C-DAC%20PG-DAC%20Scholar&descSize=18&descAlignY=62" width="100%" />
 </p>
 
 <h3 align="center">⚡ Engineering Scalable & Modular Backend Systems</h3>
@@ -64,6 +66,7 @@ I am actively undergoing rigorous postgraduate training in **Advanced Computing*
 
 | Project | Description | Tech Stack | Source Code |
 | :--- | :--- | :--- | :---: |
+| 📈 **Java Backend Daily** | Active daily tracker & code repository documenting hands-on Java, DSA, OOP, and Spring Boot practice. | Java 21, DSA, OOP, Spring | [Repository](https://github.com/TheCodeSculptor-cmd/java-backend-daily) |
 | 🎓 **Student Management System API** | Layered backend application following Controller-Service-Repository architecture with CRUD operations & custom queries. | Java, Spring Boot, Spring Data JPA, MySQL, Lombok | [Repository](https://github.com/TheCodeSculptor-cmd/Student_Management_System_REST_API) |
 | 📊 **Server Performance Stats** | Utility tool designed to track and output system performance and server metric statistics. | Java, System Architecture | [Repository](https://github.com/TheCodeSculptor-cmd/Server-Performance-stats) |
 
@@ -72,11 +75,15 @@ I am actively undergoing rigorous postgraduate training in **Advanced Computing*
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheCodeSculptor-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanskar's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TheCodeSculptor-cmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanskar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeSculptor-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCodeSculptor-cmd&theme=tokyonight&hide_border=true" alt="Sanskar's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TheCodeSculptor-cmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
