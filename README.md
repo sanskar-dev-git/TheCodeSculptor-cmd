@@ -11,6 +11,7 @@
   <a href="mailto:sanskarsoni136@gmail.com"><img src="https://img.shields.io/badge/Email-sanskarsoni136%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sanskar-soni-9659b225a"><img src="https://img.shields.io/badge/LinkedIn-Sanskar%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/TheCodeSculptor-cmd"><img src="https://img.shields.io/badge/GitHub-TheCodeSculptor--cmd-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/sanskar_786"><img src="https://img.shields.io/badge/CodeChef-sanskar__786-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
@@ -80,6 +81,16 @@ I am actively undergoing rigorous postgraduate training in **Advanced Computing*
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheCodeSculptor-cmd/TheCodeSculptor-cmd/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheCodeSculptor-cmd/TheCodeSculptor-cmd/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### 🌐 Coding Profiles
+
+<p align="center">
+  <a href="https://www.codechef.com/users/sanskar_786" target="_blank">
+    <img src="https://codechef-api.vercel.app/sanskar_786" alt="Sanskar's CodeChef Stats" />
+  </a>
+</p>
 
 ---
 
